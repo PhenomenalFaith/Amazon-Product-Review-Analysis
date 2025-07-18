@@ -21,3 +21,14 @@ Columns that were unnecessary for the analysis, like Image link, User name, etc,
 ### Dataset Summarisation. 
 The dataset was summarised using pivot tables and charts were used for visualisation.
 
+
+<img width="947" height="381" alt="Amazon Pvt table" src="https://github.com/user-attachments/assets/d2a336ee-ef5c-440c-9a0d-7292cec8b317" />
+
+<img width="960" height="392" alt="amazon pvt" src="https://github.com/user-attachments/assets/a654a155-52a5-44ae-8496-c87b2c937a35" />
+
+
+<img width="723" height="346" alt="amazon pvt 4" src="https://github.com/user-attachments/assets/68a8500a-fb53-4943-98b7-328ba4c6e53a" />
+
+
+
+
