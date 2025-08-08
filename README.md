@@ -27,8 +27,16 @@ The dataset was summarised using pivot tables and charts were used for visualisa
 <img width="960" height="392" alt="amazon pvt" src="https://github.com/user-attachments/assets/a654a155-52a5-44ae-8496-c87b2c937a35" />
 
 
+
+
+
+
+
+
 <img width="723" height="346" alt="amazon pvt 4" src="https://github.com/user-attachments/assets/68a8500a-fb53-4943-98b7-328ba4c6e53a" />
 
+Answers to Questions.
+<img width="946" height="407" alt="amazon  dashboard" src="https://github.com/user-attachments/assets/a603f95c-e998-456e-bbcb-662377d9801a" />
 
 
 
